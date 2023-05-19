@@ -14,5 +14,6 @@
 	},
 	"description":"This is my node js learning path from the freecodecamp plateform where i can uptodate my knowledge.",
 	"keywords":["Description","nodejs","apiIntegration","freecodecamp"],
-	"license": "User are only allow for visit the side, not to edit"
+	"license": "User are only allow for visit the side, not to edit",
+	"version":"1.0.0"
 }
